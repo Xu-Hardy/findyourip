@@ -12,13 +12,13 @@
 - 获取一次IP地址：
   
   ```
-  findyourip
+  ip
   ```
 
 - 获取N次IP地址：
 
   ```
-  findyourip ip n
+  ip n
   ```
 
   其中，`n` 是您希望获取IP地址的次数。
